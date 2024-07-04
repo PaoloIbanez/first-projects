@@ -15,7 +15,7 @@ def BlackjackRules():
   "- Cards are not removed from the deck as they are drawn. \n"
   "- The computer is the dealer.\n"
   )
-
+  return ""
 
 
 import random
